@@ -1,4 +1,4 @@
-- 👋 HI, PETER 
+- 👋 HI, PETER HERE
 - 👀 I’m interested in innovative software development in machine learning
 - 🌱 I’m currently learning node js, react, react native, express js, ES6 javascript
 - 📫 How to reach me 
